@@ -1,16 +1,12 @@
 {
-  "name": "app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "name": "dex-grid-bot",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "PhatJay for The Crypto Farm",
+  "private": true,
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "ethers": "^6.13.4"
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
   }
 }
